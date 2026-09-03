@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 APP_NAME=OrderFlow TIMEOUT=60 LOG_LEVEL=INFO OWNER=team-a
+=======
+
